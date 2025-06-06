@@ -36,7 +36,20 @@ A responsive multi-step onboarding form with theme toggle (light/dark) and a per
 
 💾 User data saved to localStorage
 
+5. Screenshots
+  Step 1 
+![Screenshot 2025-06-06 172236](https://github.com/user-attachments/assets/a23947ce-0afe-41d2-a67c-d05985b5f545)
+
+ Step 2
+ ![Screenshot 2025-06-06 172306](https://github.com/user-attachments/assets/b68015ae-5353-4663-99ee-86b2d78cd0e4)
+
+ Step 3 
+ ![Screenshot 2025-06-06 172407](https://github.com/user-attachments/assets/ade688df-e8fc-48b5-befa-6c26c1b7a166)
+
 📊 Dashboard visualized using Recharts
+
+![Screenshot 2025-06-06 172432](https://github.com/user-attachments/assets/ae61adf9-11fb-4cfe-861b-7c145f130daa)
+
 
 6. 📂 Folder Structure
 
