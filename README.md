@@ -17,7 +17,7 @@ A responsive multi-step onboarding form with theme toggle (light/dark) and a per
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/PurviGit/onboarding-dashboard
+   git clone https://github.com/PurviGit/onboarding-dashboard.git
    cd onboarding-dashboard
    ```
 2. Install dependencies
