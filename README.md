@@ -50,9 +50,7 @@ A responsive multi-step onboarding form with theme toggle (light/dark) and a per
 
 ![Screenshot 2025-06-06 172432](https://github.com/user-attachments/assets/ae61adf9-11fb-4cfe-861b-7c145f130daa)
 
-
 6. 📂 Folder Structure
-
 src/
 ├── components/
 │ ├── Onboarding.jsx
